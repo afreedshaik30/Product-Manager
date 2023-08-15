@@ -1,0 +1,16 @@
+.Product-form{
+    max-width:90%;
+    margin:1rem 0 0 35em;
+
+}
+.form-controller{
+     margin: 1rem 0;
+}
+
+.form-controller input{
+    display:block;
+    border-color:blueviolet;
+    border-radius:2px;
+    border:solid;
+    width:200px
+}
